@@ -1,7 +1,8 @@
-### 👋👋 Hi there 👋👋
+#### 👋👋 Hi there 👋👋
 - 🐢 I'm Siri Lee
 - 🌱 I’m currently learning JAVA, Python
-/n
+
+  
 - 💬 Ask me about anything
 - 📫 How to reach me: Email sent to 'eunsilling@gmail.com'
   
