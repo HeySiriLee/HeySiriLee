@@ -1,8 +1,9 @@
 ### 👋👋 Hi there 👋👋
 - 🐢 I'm Siri Lee
 - 🌱 I’m currently learning JAVA, Python
-- 📫 How to reach me: Email sent to 'eunsilling@gmail.com'
+
 - 💬 Ask me about anything
+- 📫 How to reach me: Email sent to 'eunsilling@gmail.com'
   
 <!--
 **HeySiriLee/HeySiriLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
