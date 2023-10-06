@@ -32,16 +32,19 @@
 	<h5>🎨 SNS & Portfolio 🎨</h5>
 </div>
 <div align=center>
+	<a href="https://blog.naver.com/eunsilling">
+		<img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/siri_.zip/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
 	<a href="mailto:eunsilling@gmail.com">
-	<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-  <a href="https://www.notion.so/Siri-s-55c033d41e48462486ca9f33f5407a08?pvs=4">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="https://www.notion.so/Siri-s-55c033d41e48462486ca9f33f5407a08?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-  <a href="https://blog.naver.com/eunsilling">
-	<img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<br>
+	<br />
 </div>
 </body>
 
