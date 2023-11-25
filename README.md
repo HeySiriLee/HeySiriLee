@@ -4,9 +4,8 @@
 </div>
 <br>
 
-<body style="font-size:50%">
-  <div style="align:left">
-    <details style="font-style:italic">
+<body>
+    <details>
       <summary>
         &ensp;사용하는 언어와 플랫폼입니당(공부중인것도 많아효!)
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
@@ -33,17 +32,20 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
     </details>
     <br />
-    <details>
+    
+  <details>
       <summary>
         &ensp;사용하는 IDE와 TOOL입니당 🛠
       </summary>
+      <br />
       <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
       <br />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     </details>
     <br />
-    <details>
+   
+  <details>
       <summary>
         &ensp;SNS 혹은 Portfolio 는 요기서!
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" />
@@ -64,14 +66,15 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
       </a>
     </details>
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    <br />
+    
+  <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" />
     </h4>
     <div align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=heysirilee&bg_color=180,000000,&title_color=000000&text_color=000000" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysirilee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
     </div>
-  </div>
 </body>
 
 
