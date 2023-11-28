@@ -74,7 +74,7 @@
     <div align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=heysirilee&bg_color=180,000000,&title_color=000000&text_color=000000" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysirilee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-      <<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heysirilee&theme=graywhite&hide_border=%EC%A7%84%EC%8B%A4&border_radius=0&card_width=700" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heysirilee&theme=graywhite&hide_border=%EC%A7%84%EC%8B%A4&border_radius=0&card_width=700" alt="GitHub Streak" /></a>
     </div>
 </body>
 
