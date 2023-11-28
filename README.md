@@ -1,10 +1,12 @@
+
 <div align=left>
   <h3> Hello, I'm Siri Lee <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Heart Hands Medium-Light Skin Tone" width="25" height="25" /></h3>
+  <br />
   <a href="https://github.com/HeySiriLee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeySiriLee&count_bg=%23757575&title_bg=%23575757&icon=smugmug.svg&icon_color=%23FFFFFF&title=counting-&edge_flat=false" /></a>
 </div>
 <br>
 
-<body>
+<i>
     <details>
       <summary>
         &ensp;사용하는 언어와 플랫폼입니당(공부중인것도 많아효!)
@@ -76,7 +78,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysirilee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heysirilee&theme=graywhite&hide_border=%EC%A7%84%EC%8B%A4&border_radius=0&card_width=700" alt="GitHub Streak" /></a>
     </div>
-</body>
+</i>
 
 
 
