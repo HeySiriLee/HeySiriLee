@@ -83,7 +83,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeySiriLee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=151515&icon_color=58A6FF&text_color=FFFFFF&title_color=FFF099&count_private=true&exclude_repo=Face-Transfer-Application" width="31.5%" />
       </a>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=HeySiriLee&theme=dark&hide_border=true&ring=FFF099&fire=FFF099&currStreakLabel=FFF099&sideLabels=FFF099&mode=weekly&card_width=500" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=HeySiriLee&theme=dark&hide_border=true&ring=FFF099&fire=FFF099&currStreakLabel=FFF099&sideLabels=FFF099&mode=weekly&card_width=490" alt="GitHub Streak" />
       </a>
       <br />
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
