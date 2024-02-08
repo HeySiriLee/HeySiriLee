@@ -74,12 +74,22 @@
     <br />
     
   <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> 
+      Stats 
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" />
     </h4>
     <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=heysirilee&bg_color=180,000000,&title_color=000000&text_color=000000" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysirilee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heysirilee&theme=graywhite&hide_border=%EC%A7%84%EC%8B%A4&border_radius=0&card_width=700" alt="GitHub Streak" /></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeySiriLee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=151515&icon_color=58A6FF&text_color=FFFFFF&title_color=FFF099&count_private=true&exclude_repo=Face-Transfer-Application" width="31.5%" />
+      </a>
+      &ensp;
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=HeySiriLee&theme=dark&hide_border=true&ring=FFF099&fire=FFF099&currStreakLabel=FFF099&sideLabels=FFF099&mode=weekly&card_width=570" alt="GitHub Streak" />
+      </a>
+      <br />
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeySiriLee&bg_color=151515&color=FFFFFF&title_color=FFF099&line=FFF099&point=FFFFFF&hide_border=true&theme=high-contrast&radius=4.5&height=500" width=90% />
+      </a>
     </div>
 </i>
 
