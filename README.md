@@ -84,7 +84,7 @@
       </a>
       &ensp;
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=HeySiriLee&theme=dark&hide_border=true&ring=FFF099&fire=FFF099&currStreakLabel=FFF099&sideLabels=FFF099&mode=weekly&card_width=525" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=HeySiriLee&theme=dark&hide_border=true&ring=FFF099&fire=FFF099&currStreakLabel=FFF099&sideLabels=FFF099&mode=weekly&card_width=500" alt="GitHub Streak" />
       </a>
       <br />
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
