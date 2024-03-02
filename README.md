@@ -62,16 +62,21 @@
       <br />
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+      <a href="mailto:eunsilling@gmail.com">
+        <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+      </a>
+      <br />
+      <br />
+      <a href="https://www.instagram.com/siri_.zip/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+      </a>
       <a href="https://blog.naver.com/eunsilling">
         <img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
       </a>
       <a href="https://medium.com/@eunsilling">
         <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">
-      <a href="https://www.instagram.com/siri_.zip/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-      </a>
-      <a href="mailto:eunsilling@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+      <a href="www.linkedin.com/in/heysirilee">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://www.notion.so/Siri-Lee-s-Portfolio-63adfe531fbb4e5abf03d1f3a790ef2a?pvs=4">
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black" />
