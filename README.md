@@ -24,13 +24,16 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
       <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <br />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
       <br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
       <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <br />
       <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
       <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" />
       &ensp;
@@ -62,17 +65,21 @@
       <a href="https://blog.naver.com/eunsilling">
         <img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
       </a>
+      <a href="https://medium.com/@eunsilling">
+        <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">
       <a href="https://www.instagram.com/siri_.zip/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
       </a>
       <a href="mailto:eunsilling@gmail.com">
         <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
       </a>
-      <a href="https://www.notion.so/Siri-s-55c033d41e48462486ca9f33f5407a08?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+      <a href="https://www.notion.so/Siri-Lee-s-Portfolio-63adfe531fbb4e5abf03d1f3a790ef2a?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black" />
       </a>
     </details>
     <br />
+
+  -----
     
   <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="25" height="25" /> 
