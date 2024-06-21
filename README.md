@@ -74,8 +74,6 @@
       <a href="https://blog.naver.com/eunsilling">
         <img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
       </a>
-      <a href="https://medium.com/@eunsilling">
-        <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white">
       <a href="www.linkedin.com/in/heysirilee">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
       </a>
