@@ -68,13 +68,13 @@
       </a>
       <br />
       <br />
-      <a href="https://www.instagram.com/siri_.zip/">
+      <a href="https://www.instagram.com/siri_.zip">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
       </a>
       <a href="https://blog.naver.com/eunsilling">
         <img src="https://img.shields.io/badge/NaverBlog-2DB400?style=flat&logo=Blogger&logoColor=white" />
       </a>
-      <a href="www.linkedin.com/in/heysirilee">
+      <a href="http://www.linkedin.com/in/heysirilee">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://www.notion.so/Siri-Lee-s-Portfolio-63adfe531fbb4e5abf03d1f3a790ef2a?pvs=4">
